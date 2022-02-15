@@ -85,7 +85,7 @@
     ]
   },
   "dependencies": {
-    "@monaco-editor/loader": "^1.2.0",
+    "@monaco-editor/loader": "github:janhellar/monaco-loader#monaco-editor-update",
     "prop-types": "^15.7.2"
   }
 }
